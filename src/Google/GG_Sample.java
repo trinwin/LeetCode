@@ -2,10 +2,10 @@ package Google;
 
 import java.util.*;
 
-// Google sample problem
+// GG_Sample sample problem
 // Split String with dashes
 
-public class Google {
+public class GG_Sample {
     public static void main(String[] args) {
         solution("2-4A0r7-4k", 4);
     }
@@ -25,15 +25,6 @@ public class Google {
         S = S.toUpperCase();
 
         System.out.println(S);
-
-//        int numDash = 0;
-//
-//        if (S.length() % K == 0){
-//            numDash = S.length() / K - 1;
-//        } else {
-//            numDash = S.length() / K;
-//        }
-
 
         String R = "";
         int counter = 0;
