@@ -16,7 +16,7 @@ public class Main {
 
     public static List<String> findSchedules(int workHours, int dayHours, String pattern) {
         // Write your code here
-        List<String> result = new ArrayList<>();
+        List<String> result = new ArrayList<String>();
         int count = 0;
         int ehour = 0;
         for (int i = 0; i < pattern.length(); i++) {
@@ -48,7 +48,7 @@ public class Main {
 
     }
 
-    public static int maxStreak(int m, List<String> data) {
+    public static void maxStreak(int m, List<String> data) {
         // Write your code here
         int max =0;
         for (int i = 0; i < data.size(); i++){
