@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e728873-3547-4ef4-ba28-01835ea21126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tesla/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Honey/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Honey/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Honey/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Honey/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,17 +23,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Google/GG_Sample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="350">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tesla/Q1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Honey/Q1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Honey/Sample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tesla/Q1.java">
+        <entry file="file://$PROJECT_DIR$/src/Honey/Q2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#168#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Honey/Q3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -81,10 +124,14 @@
         <option value="$PROJECT_DIR$/src/Google/GG_Q1.java" />
         <option value="$PROJECT_DIR$/src/Google/GG_Q2.java" />
         <option value="$PROJECT_DIR$/src/Tesla/Q1.java" />
+        <option value="$PROJECT_DIR$/src/Honey/Sample.java" />
+        <option value="$PROJECT_DIR$/src/Honey/Q1.java" />
+        <option value="$PROJECT_DIR$/src/Honey/Q3.java" />
+        <option value="$PROJECT_DIR$/src/Honey/Q2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="727" />
     <option name="height" value="1050" />
   </component>
@@ -118,7 +165,7 @@
               <item name="Calvinhaha" type="b2602c69:ProjectViewProjectNode" />
               <item name="Calvinhaha" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tesla" type="462c0819:PsiDirectoryNode" />
+              <item name="Honey" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GG_Q2">
+  <component name="RunManager" selected="Application.Q2">
     <configuration name="GG_Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Google.GG_Q1" />
       <module name="CodingInterview" />
@@ -193,8 +240,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Honey.Q2" />
+      <module name="CodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Honey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2" />
         <item itemvalue="Application.GG_Q2" />
         <item itemvalue="Application.GG_Q1" />
         <item itemvalue="Application.GG_Sample" />
@@ -216,10 +277,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18559219" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18559219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,7 +294,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
@@ -285,17 +346,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/GG_Sample.java">
+    <entry file="file://$PROJECT_DIR$/src/Honey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tesla/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/GG_Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Honey/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Honey/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Honey/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Honey/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#168#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
