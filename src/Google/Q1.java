@@ -2,7 +2,7 @@ package Google;
 
 import java.util.*;
 
-public class GG_Q1 {
+public class Q1 {
     public static void main(String[] args) {
         solution("abcdefghijklmnopqrstuvwxyz", "cba");
     }

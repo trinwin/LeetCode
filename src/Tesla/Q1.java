@@ -30,6 +30,6 @@ public class Q1 {
  * Frontend: Use what tool and why?
  * Backend: Use what tool and why?
  * Database: Use what tool and why?
- *      MongoDB: Basic questions - Table, find
+ * MongoDB: Basic questions - Table, find
  *
  */

@@ -2,7 +2,7 @@ package Google;
 
 import java.util.*;
 
-public class GG_Q2 {
+public class Q2 {
     public static void main(String[] args) {
         int[] A ={-1, 7, 0, 7, -8, 10, 12, 40, 20};
         System.out.println(solution(A));

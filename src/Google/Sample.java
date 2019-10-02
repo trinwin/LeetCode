@@ -2,10 +2,10 @@ package Google;
 
 import java.util.*;
 
-// GG_Sample sample problem
+// Sample_1 sample problem
 // Split String with dashes
 
-public class GG_Sample {
+public class Sample {
     public static void main(String[] args) {
         solution("2-4A0r7-4k", 4);
     }
