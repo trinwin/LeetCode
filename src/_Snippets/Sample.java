@@ -1,8 +1,18 @@
 package _Snippets;
 
+import java.util.*;
+
 public class Sample {
     public static void main(String[] args) {
 
+    }
+    public static void answer(){
+//        for (int i = 1; i < a.size(); i++){
+//
+//        }
+//        for (Map.Entry<Integer, List<Integer>> e : map.entrySet()) {
+//
+//        }
     }
 
     public static void Array() {

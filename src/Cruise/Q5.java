@@ -21,19 +21,19 @@ public class Q5 {
         }
         return maxDiff;
 
-
-        int maxDiff = -1;
-
-        for (int i = 0; i < arr.size(); ++i)
-        {
-            for (int j = arr.size() - 1; j > i; --j)
-            {
-                if (arr.get(j) > arr.get(i) && maxDiff < (j - i))
-                    maxDiff = j - i;
-            }
-        }
-
-        return maxDiff;
+//
+//        int maxDiff = -1;
+//
+//        for (int i = 0; i < arr.size(); ++i)
+//        {
+//            for (int j = arr.size() - 1; j > i; --j)
+//            {
+//                if (arr.get(j) > arr.get(i) && maxDiff < (j - i))
+//                    maxDiff = j - i;
+//            }
+//        }
+//
+//        return maxDiff;
 
 
     }

@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e728873-3547-4ef4-ba28-01835ea21126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Affirm/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Affirm/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atlassian/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atlassian/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atlassian/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atlassian/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nextdoor/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palantir/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palantir/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palantir/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stripe/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Databricks/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Databricks/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cruise/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cruise/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cruise/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cruise/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_Snippets/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_Snippets/Sample.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +37,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
-  </component>
   <component name="ProjectId" id="1S4LPBuq1bOHkJ5c3TTN7qhlLqt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555044708218" />
@@ -48,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1 (1)">
+  <component name="RunManager" selected="Application.Q1 (3)">
     <configuration name="Q1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Plaid.Q1" />
       <module name="CodingInterview" />
@@ -62,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Honey.Q2" />
+    <configuration name="Q1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Affirm.Q1" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Honey.*" />
+          <option name="PATTERN" value="Affirm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Google.Q2" />
+    <configuration name="Q1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stripe.Q1" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Google.*" />
+          <option name="PATTERN" value="Stripe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Plaid.Sample_1" />
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palantir.Q1" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Plaid.*" />
+          <option name="PATTERN" value="Palantir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Plaid.Sample_2" />
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atlassian.Q4" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Plaid.*" />
+          <option name="PATTERN" value="Atlassian.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1 (3)" />
+        <item itemvalue="Application.Q1 (2)" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q1" />
         <item itemvalue="Application.Q1 (1)" />
-        <item itemvalue="Application.Sample_2" />
-        <item itemvalue="Application.Sample_1" />
-        <item itemvalue="Application.Q2" />
       </list>
     </recent_temporary>
   </component>
